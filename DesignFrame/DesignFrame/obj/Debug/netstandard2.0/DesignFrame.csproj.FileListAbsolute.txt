@@ -1,0 +1,14 @@
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\DesignFrame.csprojAssemblyReference.cache
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\bin\Debug\netstandard2.0\DesignFrame.deps.json
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\bin\Debug\netstandard2.0\DesignFrame.dll
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\bin\Debug\netstandard2.0\ref\DesignFrame.dll
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\bin\Debug\netstandard2.0\DesignFrame.pdb
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\View\MasterDetailsPage.xaml.g.cs
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\DesignFrame.AssemblyInfoInputs.cache
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\DesignFrame.AssemblyInfo.cs
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\DesignFrame.dll
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\ref\DesignFrame.dll
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\DesignFrame.pdb
+D:\VSFolder\DesignFrame\DesignFrame\DesignFrame\obj\Debug\netstandard2.0\View\DetailPage.xaml.g.cs
